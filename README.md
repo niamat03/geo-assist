@@ -98,5 +98,3 @@ Python · PyQt5 · PyQGIS · GDAL · NumPy · ReportLab · python-docx
 ## Développement
 
 - El Qasemy Niamat
-
-**Encadrement :** Pr. YAZIDI ALAOUI Otmane
